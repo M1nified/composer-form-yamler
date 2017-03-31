@@ -1,0 +1,27 @@
+{
+    "name": "m1nified/form-yamler",
+    "type": "library",
+    "description": "Array checking and parsing.",
+    "keywords": [
+        "array",
+        "post",
+        "get"
+    ],
+    "homepage": "https://github.com/M1nified/composer-form-yamler",
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "Michał Góra"
+        }
+    ],
+    "require": {
+        "symfony/finder": "^3.2",
+        "symfony/yaml": "^3.2",
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "m1nified\\form-yamler\\": "Classes/"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+imie: Jacus
+nazwisko: Placus
+rejestruj-na:
+    - { tag: SEMX2015, takczynie: tak }
+    - { tag: SEMXI2015, takczynie: nie }
